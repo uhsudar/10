@@ -1,4 +1,4 @@
-name: Simple Test
+name: My Custom Pipeline
 
 on: [push]
 
